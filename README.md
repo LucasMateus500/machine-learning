@@ -4,4 +4,5 @@
 
 
 
-![y4](https://github.com/LucasMateus500/machine-learning/assets/126467107/d6f4345e-163f-452d-a078-76d154e92c13)
+
+![y4](https://github.com/LucasMateus500/machine-learning/assets/126467107/26de2317-eaf7-4518-9a92-eb84f422ec2b)
