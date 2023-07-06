@@ -8,4 +8,4 @@
 
 ![yt2](https://github.com/LucasMateus500/machine-learning/assets/126467107/5a0bcea8-1a7a-4e99-a88d-23630e5808f3)
 
-![42](https://github.com/LucasMateus500/machine-learning/assets/126467107/fcbe5a60-5bbe-4923-a1a2-70d12926cdcd)
+
