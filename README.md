@@ -6,3 +6,4 @@
 
 
 
+![yt2](https://github.com/LucasMateus500/machine-learning/assets/126467107/5a0bcea8-1a7a-4e99-a88d-23630e5808f3)
