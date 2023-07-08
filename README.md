@@ -9,4 +9,5 @@
 ![yt2](https://github.com/LucasMateus500/machine-learning/assets/126467107/5a0bcea8-1a7a-4e99-a88d-23630e5808f3)
 
 
-![Screenshot_2](https://github.com/LucasMateus500/machine-learning/assets/126467107/f4c00b6c-56c5-4cb1-8c66-f666a7b033f1)
+![t_2](https://github.com/LucasMateus500/machine-learning/assets/126467107/d7ebd013-425f-45ca-bd21-7ee7e7474bb3)
+
